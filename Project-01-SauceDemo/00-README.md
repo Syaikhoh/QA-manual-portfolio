@@ -45,16 +45,14 @@ The project covers the software testing process, including test planning, test s
 - [Test Plan](./01-Test_Planning/)
 - [Test Scenarios](./02-Test_Scenarios/)
 - [Test Cases](./03-Test_Cases/)
-- [Test Execution](./04-Test_Execution/)
-- [Test Summary](./05-Test_Summary/)
 
 ### Defect Management
 
-- [Bug Reports](./06-Bug_Reports/)
+- [Bug Reports](./04-Bug_Reports/)
 
 ### Test Evidence
 
-- [Screenshots](./07-Screenshots/)
+- [Screenshots](https://drive.google.com/drive/folders/14rd8HtKWUKMnNk6qz47qweF_D7pzezAS?usp=drive_link)
 
 ## Test Environment
 
